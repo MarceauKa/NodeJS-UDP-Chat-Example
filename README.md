@@ -2,6 +2,8 @@
 
 This is just a mundane UDP chat using node.js for learning purpose.
 
+![working-capture](https://github.com/AkibaTech/NodeJS-UDP-Chat-Example/blob/master/screenshot.png)
+
 ## Running server
 
 ```bash
